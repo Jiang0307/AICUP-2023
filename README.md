@@ -11,7 +11,5 @@ python 3.8.13
 sentence retrieval以及claim verification中的**ckpt_name**要修改成要訓練後產生的**pt檔**
 ## 執行步驟說明
 主要運行程式 : **main.ipynb**
-
 libary : **dataset.py** **utils.py** **hw3_utils.py**
-
 直接執行**main.ipynb**即可
