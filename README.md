@@ -15,9 +15,9 @@
 
 ## 執行步驟說明
 * 主要運行程式
-*   **main.ipynb**
+  *   **main.ipynb**
 * libary
-*   **dataset.py**
-*   **utils.py**
-*   **hw3_utils.py** 
+  *   **dataset.py**
+  *   **utils.py**
+  *   **hw3_utils.py** 
 * 直接執行**main.ipynb**即可
