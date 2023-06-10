@@ -11,7 +11,7 @@
 * **checkpoint資料夾**中存放訓練的checkpoint
 
 ## 路徑設定
-* sentence retrieval以及claim verification中的**ckpt_name**要自行修改成訓練後產生的.pt檔
+* **sentence retrieval**以及**claim verification**中的**ckpt_name**需自行挑選並修改成訓練後產生的.pt檔
 
 ## 執行步驟說明
 * 主要運行程式
